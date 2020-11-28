@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Junhyeok
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Studying Atomic physics at KAIST
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ({{ site.baseurl }}/images/MOTT.jpg)
+avatar: /images/MOTT.jpg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: gj7107/jekyll-now
   instagram:
   linkedin:
   pinterest:
@@ -67,6 +67,7 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+  math_engine: mathjax
 
 # Set the Sass partials directory, as we're using @imports
 sass:
