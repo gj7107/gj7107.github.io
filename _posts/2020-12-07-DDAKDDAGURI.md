@@ -5,8 +5,8 @@ usemathjax: true
 ---
 학교 뒤편 생명공학기술연구원 쪽 나무에 붙어있는 딱따구리
 
-![DDAKDDAGURI]({{ site.baseurl }}/images/ddak.png)
+![DDAKDDAGURI]({{ site.baseurl }}/images/ddak.jpg)
 
 덤으로 고양이도
 
-![goyangi]({{ site.baseurl }}/images/cat1207.png)
+![goyangi]({{ site.baseurl }}/images/cat1207.jpg)
